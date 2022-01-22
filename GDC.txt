@@ -1,0 +1,9 @@
+Gaming Designing Concepts
+Game Story
+PC(Playing Charectors) & NPC (Non playing Charectors)
+Player Goal
+Rules
+Adaptivity
+Chance and Skill
+Feedback
+Balence
